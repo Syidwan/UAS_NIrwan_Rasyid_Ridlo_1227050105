@@ -5,7 +5,7 @@
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-<br>Untuk memenuhi tugas ujian akhir semsester dengan membuat 2 program menggunakan bahasa c++. Program pertama untuk menampilkan nilai transpose dari matriks yaitu mengubah baris menjadi kolom dan sebalikanya dengan nilai yang di inputkan. Program kedua untuk menampilkan bilangan yang habis dibagi 3,5,7.
+<br>Untuk memenuhi tugas ujian akhir semester dengan membuat 2 program menggunakan bahasa c++. Program pertama untuk menampilkan nilai transpose dari matriks yaitu mengubah baris menjadi kolom dan sebalikanya dengan nilai yang di inputkan. Program kedua untuk menampilkan bilangan yang habis dibagi 3,5,7.
 
 ## Source Code
 #Program 1
