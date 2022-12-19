@@ -8,12 +8,13 @@
 <br>Untuk memenuhi tugas ujian akhir semsester dengan membuat 2 program menggunakan bahas c++. Program pertama untuk menampilkan nilai transpose dari matriks uyaitu mengubah baris menjadi kolom dan sebalikanya dengan nilai yang di inputkan. Program kedua untuk menampilkan bilangan yang habis dibagi 3,5,7
 
 ## Source Code
+#program 1
 	#include <iostream>
 	#include <conio.h>
 	using namespace std;
 
-main()
-{
+	main()
+	{
 	int matr[20][20];
 	int trans[20][20];
 	int i, j, x, y;
@@ -60,5 +61,5 @@ main()
 	cout<<endl;	
 	}
 	getch();
-}
+	}
 ## Output
