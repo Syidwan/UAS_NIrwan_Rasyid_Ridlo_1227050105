@@ -163,3 +163,28 @@
 <br>2       4
 <br>1       5
 <br>3       6
+
+<br>Menampilkan bilang yang habis dibagi 3,5,7
+<br>=========================
+
+<br>Masukkan jumlah baris : 3
+<br>Masukkan jumlah kolom : 3
+
+<br>masukan elemen baris ke 1 kolom ke 1 = 28
+<br>masukan elemen baris ke 1 kolom ke 2 = 21
+<br>masukan elemen baris ke 1 kolom ke 3 = 35
+<br>masukan elemen baris ke 2 kolom ke 1 = 70
+<br>masukan elemen baris ke 2 kolom ke 2 = 105
+<br>masukan elemen baris ke 2 kolom ke 3 = 67
+<br>masukan elemen baris ke 3 kolom ke 1 = 88
+<br>masukan elemen baris ke 3 kolom ke 2 = 25
+<br>masukan elemen baris ke 3 kolom ke 3 = 18
+
+<br>======= Nilai habis di bagi 3 =======
+<br> 21 105 18
+<br>======= Nilai habis di bagi 5 =======
+<br> 35 70 105 25
+<br>======= Nilai habis di bagi 7 =======
+<br> 28 21 35 70 105
+<br>======= Nilai habis di bagi 3,5,7 =======
+<br> 105
