@@ -143,23 +143,23 @@
 	}
 	}	
 ## Output
- TRANSPOSE MATRIKS
-=========================
+<br>TRANSPOSE MATRIKS
+<br>=========================
 
-Masukkan jumlah baris matriks: 2
-Masukkan jumlah kolom matriks: 3
+<br>Masukkan jumlah baris matriks: 2
+<br>Masukkan jumlah kolom matriks: 3
 
-masukan elemen baris ke 1 kolom ke 1 = 2
-masukan elemen baris ke 1 kolom ke 2 = 1
-masukan elemen baris ke 1 kolom ke 3 = 3
-masukan elemen baris ke 2 kolom ke 1 = 4
-masukan elemen baris ke 2 kolom ke 2 = 5
-masukan elemen baris ke 2 kolom ke 3 = 6
+<br>masukan elemen baris ke 1 kolom ke 1 = 2
+<br>masukan elemen baris ke 1 kolom ke 2 = 1
+<br>masukan elemen baris ke 1 kolom ke 3 = 3
+<br>masukan elemen baris ke 2 kolom ke 1 = 4
+<br>masukan elemen baris ke 2 kolom ke 2 = 5
+<br>masukan elemen baris ke 2 kolom ke 3 = 6
 
-======= Elemen Matriks =======
-2       1       3
-4       5       6
-======= Hasil Transpose =======
-2       4
-1       5
-3       6
+<br>======= Elemen Matriks =======
+<br>2       1       3
+<br>4       5       6
+<br>======= Hasil Transpose =======
+<br>2       4
+<br>1       5
+<br>3       6
